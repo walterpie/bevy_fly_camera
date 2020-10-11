@@ -13,5 +13,5 @@ readme = "README.md"
 
 [dependencies.bevy]
 version = "0.2"
-git = "https://github.com/bevyengine/bevy"
+git = "https://github.com/walterpie/bevy"
 branch = "master"
